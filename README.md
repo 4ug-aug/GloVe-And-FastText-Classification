@@ -4,5 +4,7 @@ Two models using GloVe+PCA and FastText+PCA to analyse and classify IMDB Movie p
 See python notebook as HTML: https://htmlpreview.github.io/?https://github.com/4ug-aug/GloVe-And-FastText-Classification/blob/main/GloVeAndFastText.html
 
 In collaboration with:
+
 www.github.com/AndreasLF
+
 www.github.com/johan-bh
